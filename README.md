@@ -6,4 +6,9 @@ The code implements the optimization approach proposed in: Pollini, N. (2022). T
 
 <b>Example</b>
 
-![Wind farm ground structure](wind_farm_ground_structure.png =200x)
+Initial grid of wind turbines   
+![Wind farm ground structure](wind_farm_ground_structure.png)   
+
+Optimized wind farm layout.   
+The red circles define the minimum distance between wind turbines.
+![Optimized wind farm layout](optimized_wind_farm_layout_slp.png)   

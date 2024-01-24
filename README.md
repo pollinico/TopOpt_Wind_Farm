@@ -6,4 +6,4 @@ The code implements the optimization approach proposed in: Pollini, N. (2022). T
 
 <b>Example</b>
 
-![Wind farm ground structure](wind_farm_ground_structure.png)
+![Wind farm ground structure](wind_farm_ground_structure.png =200x)

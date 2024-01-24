@@ -6,9 +6,11 @@ The code implements the optimization approach proposed in: Pollini, N. (2022). T
 
 <b>Example</b>
 
-Initial grid of wind turbines   
+Initial grid of wind turbines. There are 124 potential wind turbine. During the optimization analysis, a minimum of 16 and a maximum of 64 wind turbines are allowed to be placed.   
 ![Wind farm ground structure](wind_farm_ground_structure.png)   
 
 Optimized wind farm layout.   
 The red circles define the minimum distance between wind turbines.
-![Optimized wind farm layout](optimized_wind_farm_layout_slp.png)   
+![Optimized wind farm layout](optimized_wind_farm_layout_slp.png)    
+![Wakes in optimized wind farm layout](wind_farm_270_deg_SLP.png)  
+

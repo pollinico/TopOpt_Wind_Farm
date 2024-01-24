@@ -1,5 +1,8 @@
 %% Code for wind farm layout topology optimization
 %  Nicolò Pollini
+%  The code implements the optimization approach proposed in: 
+%  Pollini, N. (2022). Topology optimization of wind farm layouts. 
+%  Renewable Energy, 195, 1015-1027.
 
 %%
 close all

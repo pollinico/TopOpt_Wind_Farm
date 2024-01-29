@@ -16,7 +16,7 @@ Wind rose, for a wind speed of 9.8 m/s.
 <img src="wind_rose.png" alt="Wind rose" style="height: 400px;"/>    
 
 Optimized wind farm layout.   
-The red circles define the minimum distance between wind turbines.
-![Optimized wind farm layout](optimized_wind_farm_layout_slp.png)    
-![Wakes in optimized wind farm layout](wind_farm_270_deg_SLP.png)  
+The red circles define the minimum distance between wind turbines.   
+<img src="optimized_wind_farm_layout_slp.png" alt="Optimized wind farm layout" style="height: 400px;"/>    
+<img src="wind_farm_270_deg_SLP.png" alt="Wakes in optimized wind farm layout" style="height: 400px;"/>   
 

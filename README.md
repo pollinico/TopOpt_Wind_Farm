@@ -12,7 +12,7 @@ Initial grid of wind turbines. There are 124 potential wind turbine. During the 
 <img src="wind_farm_ground_structure.png" alt="Wind farm ground structure" style="height: 400px;"/>    
    
 
-Wind rose, for a wind speed of 9.8 m/s. 
+Wind rose, for a wind speed of 9.8 m/s.    
 <img src="wind_rose.png" alt="Wind rose" style="height: 400px;"/>    
 
 Optimized wind farm layout.   
